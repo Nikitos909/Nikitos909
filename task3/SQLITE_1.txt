@@ -6,3 +6,6 @@ WHERE EXISTS(SELECT E.EmployeeId
                    AND BirthDate >= DATE('now', '-50 years'))
 				   ORDER by City ASC, Email DESC
 
+
+Пока ничего не понял
+
